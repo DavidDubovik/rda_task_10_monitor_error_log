@@ -20,7 +20,7 @@ user		= mysql
 # socket	= /var/run/mysqld/mysqld.sock
 
 
-port		= 443
+port		= 3306
 
 datadir	= /var/lib/mysql
 # datadir	= /var/data/mysql
